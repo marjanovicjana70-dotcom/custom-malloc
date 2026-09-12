@@ -1,4 +1,4 @@
 *.so
-src/obj
+obj
 test/obj
 test/test
