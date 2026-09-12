@@ -1,0 +1,4 @@
+*.so
+src/obj
+test/obj
+test/test
